@@ -1,0 +1,10 @@
+displayName = UpdatedTMumbleLink
+author = Haxerus/Shajden
+version = 1.0.1.2
+buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, docs\*, .github\*, .gitignore, *.md
+hideCode = false
+hideResources = false
+includeSource = true
+includePDB = true
+side=Client
+homepage=https://github.com/Haxerus/TMumbleLink

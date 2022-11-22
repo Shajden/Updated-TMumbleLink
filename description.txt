@@ -1,0 +1,19 @@
+Adds Positional Audio support through Mumble Link. This allows you to hear other players in a voice chat get louder or quieter based on position and distance.
+
+You need to install the Mumble voice chat client for this mod to work. See the Forum Post or GitHub for Mumble setup instructions.
+
+This mod is client side only.
+
+Changelog
+v1.0.1.2
+- Updated to Terraria v1.4.3.6
+
+v1.0.1.1
+- Fixed an oversight where "Mumble Linked" text appeared in singleplayer
+
+v1.0.1
+- Added Mod Icon
+- Fixed a minor issue with chat text
+
+v1.0
+- Release
