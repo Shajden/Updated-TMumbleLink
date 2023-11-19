@@ -4,7 +4,9 @@ This is a mod for Terraria using tModLoader that adds Positional Audio support t
 This mod is meant to be used with the [Mumble](http://mumble.info) chat client.
 
 Note: This mod is client-side only so you don't need to install it on a server. Also, the mod only works in multiplayer for obvious reasons.
-
+## Original Creator
+This mod was originaly made by Haxerus, I only updated the mod to work on the newest version of Terraria/tModLoader
+* [Original Page](https://github.com/Haxerus/TMumbleLink)
 
 ## Requirements
 * [Terraria](https://store.steampowered.com/app/105600/Terraria/)
