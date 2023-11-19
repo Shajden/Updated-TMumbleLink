@@ -5,6 +5,10 @@ You need to install the Mumble voice chat client for this mod to work. See the F
 This mod is client side only.
 
 Changelog
+
+v1.0.1.3
+- Updated to Terraria v1.4.4.9/tModLoader v2023.9.3.3
+
 v1.0.1.2
 - Updated to Terraria v1.4.3.6
 

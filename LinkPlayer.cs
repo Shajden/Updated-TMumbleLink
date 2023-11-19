@@ -65,12 +65,12 @@ namespace TMumbleLinkUD
                 file.Write(lm);
         }
 
-        public override void OnEnterWorld(Player player)
+        public override void OnEnterWorld()
         {
 			if (Main.netMode != NetmodeID.MultiplayerClient)
                 return;
 			
-            if (player.whoAmI == Main.myPlayer)
+            if (Player.whoAmI == Main.myPlayer)
             {
                 Main.NewText("Mumble Linked!", new Color(255, 240, 20));
             }

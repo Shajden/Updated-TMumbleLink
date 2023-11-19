@@ -1,6 +1,6 @@
 displayName = UpdatedTMumbleLink
 author = Haxerus/Shajden
-version = 1.0.1.2
+version = 1.0.1.3
 buildIgnore = *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, docs\*, .github\*, .gitignore, *.md
 hideCode = false
 hideResources = false
